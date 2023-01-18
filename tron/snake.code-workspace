@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../snake"
+		},
+		{
+			"path": "../tron2"
+		},
+		{
+			"path": "../compsci5/tron"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tron3"
+	}
+}
